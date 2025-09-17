@@ -16,9 +16,10 @@
 <h2>Git</h2>
 <ul>
     <li>Clear, frequent commit messages to properly track progress over time</li>
+</ul>
 
 
-<h2>Credits<h2>
+<h2>Credits</h2>
 <ul>
     <li>Recipes are sourced from AllRecipes.com. This project is not intended for commercial use and is solely for educational purposes only.</li>
     <li>All images are used with a Creative Commons license.</li>
