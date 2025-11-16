@@ -1,0 +1,49 @@
+.html {
+    box-sizing: border-box;
+}
+.main-header {
+    background-color: #8289D0;
+    padding:15px;
+    border: 5px solid #2F6893;
+    border-radius: 10px;
+
+    font-family:Georgia, Times, serif;
+    text-align: center;
+    color: #FDEEDF;
+    font-weight: bold;
+    font-size:30px;
+}
+
+#list {
+    background-color: #d9ead3;
+    width:310px;
+    height:160px;
+    margin:auto;
+    margin-top:30px;
+    margin-bottom: 20px;
+    padding:20px;
+    border:solid 3px #38761d;
+
+    font-size:18px;
+    font-family:Georgia, Times, serif;
+
+}
+
+.recipe-title {
+    background-color: #fff2cc;
+    border:solid black 5px;
+
+}
+
+.table{
+
+}
+
+.recipe-sub{
+
+}
+
+.button{
+    background-color:#38761d;
+
+}
